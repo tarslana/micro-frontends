@@ -1,6 +1,6 @@
-Techniques, strategies and recipes for building a __modern web app__ with __multiple teams__ that can __ship features independently__.
+Tehnike, strategije i recepti za izgradnju __moderne web aplikacije__ s __višestrukim timovima__ koji mogu __neovisno slati značajke__.
 
-## What are Micro Frontends?
+## Što su Micro Frontends?
 
 The term __Micro Frontends__ first came up in [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar/techniques/micro-frontends) at the end of 2016. It extends the concepts of micro services to the frontend world. The current trend is to build a feature-rich and powerful browser application, aka single page app, which sits on top of a micro service architecture. Over time the frontend layer, often developed by a separate team, grows and gets more difficult to maintain. That's what we call a [Frontend Monolith](https://www.youtube.com/watch?v=pU1gXA0rfwc).
 
